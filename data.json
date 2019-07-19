@@ -1,0 +1,15 @@
+{
+  "main": {
+    "name": "something",
+    "skills": [
+      "python",
+      "javascript",
+      "GO",
+      "C++",
+      "Dancing"
+    ]
+  },
+  "projects": [
+    ["a", "b"]
+  ]
+}
