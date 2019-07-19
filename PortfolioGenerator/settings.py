@@ -112,5 +112,6 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 PORTFOLIO_DATA = os.path.join(BASE_DIR, 'data.json')
